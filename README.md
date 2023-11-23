@@ -2,6 +2,10 @@
 
 Esta página de inicio de noticias es una excelente oportunidad para practicar habilidades en CSS Grid. Cabe destacar que he desarrollado este sitio web utilizando React y el framework Tailwind, lo que me permite aplicar mis conocimientos en diseño web y maquetación con tecnologías de vanguardia.
 
+## Link
+
+- [News homepage](https://newhomepages.netlify.app/)
+
 ### Desktop
 
 <div align="center">
