@@ -1,4 +1,4 @@
-import { NavBar } from './Navbar'
+import { NavBar } from './NavBar'
 import logo from '../assets/images/logo.svg'
 
 export const Header = () =>{
