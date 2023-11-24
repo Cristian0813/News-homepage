@@ -1,7 +1,7 @@
-import { ArticlesContainer } from "./components/ArticlesContainer"
-import { MainArticle } from "./components/MainArticle"
-import { NewContainer } from "./components/NewContainer"
-import { Header } from "./components/header"
+import ArticlesContainer from "./components/ArticlesContainer"
+import MainArticle from "./components/MainArticle"
+import NewContainer from "./components/NewContainer"
+import Header from "./components/header"
 
 function App() {
 
